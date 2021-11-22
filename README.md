@@ -1,7 +1,5 @@
 # global-dunes
-combined age, grain size, dune geometry, wind data and maps for 40 earth dune fields
-
-please do not use results from this repository without asking me (until published in a journal).
+code repo to accompany manuscript "what sets aeolian dune height?" by gunn et al 2021. https://doi.org/10.31223/X5QG8S
 
 code and data gathering by andrew gunn
 
@@ -13,18 +11,18 @@ ERA5-interim atmosphere from https://registry.opendata.aws/ecmwf-era5/
 
 Age from http://www.dri.edu/data/320-programs/inqua-dunes-atlas
 
-Grain size from papers seen here https://docs.google.com/spreadsheets/d/1Hnu556nNkLSABAK73NhOe2SjOIMxw2FO-ToRgPUKrXk/edit?usp=sharing
+GIS for the dune-field outlines and wind grid is in supplementary-data-GIS.kml
 
-Maps made for this study
+if you want any of the exact files the script calls, just email me!
  
 # collaborators:
 
-federico falcini
-
 giampietro casasanta
+
+federico falcini
 
 luca di liberto
 
-raleigh martin
+nicholas lancaster
 
 douglas jerolmack
