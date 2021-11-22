@@ -1,6 +1,6 @@
 # global-dunes
 
-code repo to accompany manuscript "what sets aeolian dune height?" by gunn et al 2021. https://doi.org/10.31223/X5QG8S
+repo to accompany manuscript "what sets aeolian dune height?" by gunn et al 2021. https://doi.org/10.31223/X5QG8S
 
 code and data gathering by andrew gunn
 
